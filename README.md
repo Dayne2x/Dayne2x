@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dayne2x
 - 👀 I’m interested in learning front-end web development tehniques in hopes of a career change
-- 🌱 I’m currently learning HTML, CSS and a bit of Java
+- 🌱 I’m currently learning HTML, CSS and a bit of JavaScript
 - 📫 How to reach me ...
 
 <!---
